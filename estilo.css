@@ -1,0 +1,145 @@
+body{
+  padding:none;
+  background:lightgray;
+  max-width: auto;
+  min-width: 470px;
+}
+
+
+.container{
+
+  margin:0px 0px;
+  max-width: auto;
+  min-width: 470px;
+  border:none;
+  background-color:lightgray;
+  height: auto;
+  text-align:left;
+}
+
+ .header{
+  min-width:470px;
+  max-width: auto;
+  margin:none;
+  border:none;
+  text-align: left;
+  height: 80px;
+  border-radius:none;
+  background: -webkit-linear-gradient(#000,#BA55D3);
+
+}
+ #foto{
+
+  border: 1px solid;
+  width: 110px;
+  height: 110px;
+  margin: 30px 20px;
+}
+#Atualização{
+
+  margin:130px 160px;
+  width: 250px;
+  height: auto;
+  border:none;
+  font-size: 15px;
+  color: blue;
+}
+
+img{
+  border-radius:none;
+  border: none;
+
+}
+
+h1{
+ margin:0px 3%;
+ font-size: 30px;
+ font-family:courier,arial,helvetica;
+ color: white;
+ text-shadow: 0px 0px 7px white;
+
+}
+
+h2{
+  text-align: left;
+  font-family: sans-serif;
+  color:blue;
+  font-size: 20px;
+}
+
+h3{
+ text-align: left;
+ font-family: serif;
+ margin:-125px 160px;
+ color:blue;
+ font-size: auto;
+}
+h4{
+  border: 1px solid blue;
+  color:white;
+  width: auto;
+  height: auto;
+  background:blue;
+}
+
+.nav{
+ font-size: 20px;
+ text-align: center;
+ margin:-5px;
+ color:white;
+ text-shadow: none;
+}
+a:link{
+ color: white;
+ text-decoration: none;
+ margin:10px;
+}
+a:visited{
+ text-decoration: none;
+ color:#FFC0CB;
+}
+a:hover{
+ text-decoration: none;
+ color:white;
+ font-size: none;
+ text-shadow: 0px 2px 10px white;
+}
+.section{
+
+ font-size: 20px;
+ text-align: left;
+ margin:auto;
+ min-width:auto;
+ max-width: 900px;
+ border: 2px solid #BA55D3;
+ height:auto;
+ background: white;
+ }
+.section2{
+ text-align:center;
+ font-family: serif;
+ margin:-50px 0px;
+ border:none;
+ min-width:470px;
+ max-width: 900px;
+ height: auto;
+ color: blue;
+
+}
+.section3{
+  text-align: left;
+  margin: 5px 0px;
+  color: blue;
+  margin:10px;
+
+}
+p{
+ font-family: serif;
+ text-indent: 20px;
+ margin-left:5px;
+ color: blue;
+}
+.footer{
+  text-align: right;
+  margin: 50px 10px;
+}
